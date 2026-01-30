@@ -1,2 +1,2 @@
 # Arcana_Buildy
-Repo pro buildnute verze maturitniho projektu
+Ted je tady UML_Diagram myho codebase
